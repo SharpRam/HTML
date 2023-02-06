@@ -1,0 +1,68 @@
+body {
+    background-color: lavenderblush;
+}
+
+h1 {
+    letter-spacing: 60px;
+    text-align: center;
+}
+
+img {
+    width: 650px;
+    /*text-align: center;*/
+
+}
+
+.Home {
+    background-color: gold;
+    letter-spacing: 10px;
+    color: black;
+    /*text-align: right;*/
+}
+
+#Portfolio {
+    letter-spacing: 10px;
+    color: darkred;
+}
+
+#AboutMe {
+    letter-spacing: 10px;
+    color: greenyellow;
+    background-color: lightcoral;
+}
+
+#Services {
+    letter-spacing: 10px;
+    color: aqua;
+}
+
+#Links {
+    letter-spacing: 10px;
+    color: slateblue;
+    border: 4px solid darkcyan;
+    border-radius: 10px 100px / 120px;
+    /*text-align: center;*/
+}
+
+ul {
+    font-size: 48px;
+    text-align: center;
+}
+
+ul .Home:hover {
+    color: dodgerblue;
+    border-width: 10px;
+    border-color: darkseagreen;
+    border-style: solid;
+    border-left: dotted;
+    border-top: dashed;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
